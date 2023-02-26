@@ -127,7 +127,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
   .gridContainer{
     width: 100%;
     display: grid;
-    min-height: 935px;
+    min-height: 950px;
     height: auto;
     grid-template-columns: 1fr;
     column-gap: 10px;
@@ -140,7 +140,7 @@ grid-template-columns: 1fr 1fr 1fr 1fr;
       align-items: center;
       justify-content: center;
       margin: 10px;
-      margin-left: 11%;
+      margin-left: 10%;
       width: 80%;
       border-radius: 10px;
       box-shadow: 0 0 5px  ;
